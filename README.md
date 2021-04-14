@@ -84,3 +84,4 @@ GHDL is free software:
 </p>
 
 - **[deprecated]** `ghdl_simul`, which supports interpreted simulation, is available for historical reasons and for development/debugging only. It is very slow compared to the 'regular' compiled simulation and not all the features are supported.
+- jenkinsfile
